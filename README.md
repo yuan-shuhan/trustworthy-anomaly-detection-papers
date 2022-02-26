@@ -18,6 +18,8 @@ Papers on Trustworthy Anomaly Detection
 
 * (CSUR'21) **Deep Learning for Anomaly Detection: A Review**. *Pang Guansong, Chunhua Shen, Longbing Cao, and Anton Van Den Hengel*. [link](https://dl.acm.org/doi/abs/10.1145/3439950)
 
+* (arxiv'21) **Generalized out-of-distribution detection: A survey**. *Yang, Jingkang, Kaiyang Zhou, Yixuan Li, and Ziwei Liu.* [link](https://arxiv.org/abs/2110.11334).
+
 * (arxiv'19) **Deep Learning for Anomaly Detection: A Survey**. *Chalapathy Raghavendra, and Sanjay Chawla*. [link](https://arxiv.org/abs/1901.03407)
 
 ### 2.1 Surveys on Specific Domains
@@ -27,13 +29,13 @@ Papers on Trustworthy Anomaly Detection
 
 * (TKDE'21) **A Comprehensive Survey on Graph Anomaly Detection with Deep Learning**. *Ma Xiaoxiao, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, and Leman Akoglu*. [link](https://ieeexplore.ieee.org/document/9565320)
 
-* (IoT J.'20) **Anomaly Detection for IoT Time-Series Data: A Survey**. *Cook Andrew A., Göksel Mısırlı, and Zhong Fan*. [link](https://ieeexplore.ieee.org/abstract/document/8926446)
-
-* (arxiv'19) **A Survey on GANs for Anomaly Detection**. *Di Mattia, Federico, Paolo Galeone, Michele De Simoni, and Emanuele Ghelfi*. [link](https://arxiv.org/abs/1906.11632)
-
 * (arxiv'20) **Anomaly Detection in Univariate Time-series: A Survey on the State-of-the-Art**. *Mohammad Braei, Sebastian Wagner*. [link](https://arxiv.org/abs/2004.00433)
 
 * (CSUR'20) **Anomaly detection in road traffic using visual surveillance: a survey**. *Santhosh Kelathodi Kumaran, Debi Prosad Dogra, and Partha Pratim Roy*. [link](https://dl.acm.org/doi/abs/10.1145/3417989)
+
+* (IoT J.'20) **Anomaly Detection for IoT Time-Series Data: A Survey**. *Cook Andrew A., Göksel Mısırlı, and Zhong Fan*. [link](https://ieeexplore.ieee.org/abstract/document/8926446)
+
+* (arxiv'19) **A Survey on GANs for Anomaly Detection**. *Di Mattia, Federico, Paolo Galeone, Michele De Simoni, and Emanuele Ghelfi*. [link](https://arxiv.org/abs/1906.11632)
 
 
 
