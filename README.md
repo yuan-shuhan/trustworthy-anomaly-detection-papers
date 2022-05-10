@@ -46,6 +46,8 @@ Papers on Trustworthy Anomaly Detection
 * (VLDB J.'22) **A survey on outlier explanations**. *Panjei Egawati, Le Gruenwald, Eleazar Leal, Christopher Nguyen, and Shejuti Silvia.* [link](https://link.springer.com/article/10.1007/s00778-021-00721-1)
 
 **Approaches**
+* (PVLDB'21) **Exathlon: a benchmark for explainable anomaly detection over time series**. *Vincent Jacob, Fei Song, Arnaud Stiegler, Bijan Rad, Yanlei Diao, and Nesime Tatbul*. [link](https://doi.org/10.14778/3476249.3476307)
+
 * (ICLR'21) **Explainable Deep One-Class Classification**. *Liznerski Philipp, Lukas Ruff, Robert A. Vandermeulen, Billy Joe Franks, Marius Kloft, and Klaus-Robert Müller.* [link](https://arxiv.org/abs/2007.01760)
 
 * (BigData'21) **InterpretableSAD: Interpretable Anomaly Detection in Sequential Log Data**. *Han Xiao, He Cheng, Depeng Xu, and Shuhan Yuan*. [link](https://ieeexplore.ieee.org/document/9671642)
