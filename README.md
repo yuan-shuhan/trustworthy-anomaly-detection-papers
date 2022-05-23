@@ -88,7 +88,7 @@ Papers on Trustworthy Anomaly Detection
 
 **Approaches**
 
-* (DTRAP'2022)  **Modeling Realistic Adversarial Attacks against Network Intrusion Detection Systems**. *Apruzzese, Giovanni, Mauro Andreolini, Luca Ferretti, Mirco Marchetti, and Michele Colajanni.* [link](https://dl.acm.org/doi/10.1145/3469659) 
+* (DTRAP'22)  **Modeling Realistic Adversarial Attacks against Network Intrusion Detection Systems**. *Apruzzese, Giovanni, Mauro Andreolini, Luca Ferretti, Mirco Marchetti, and Michele Colajanni.* [link](https://dl.acm.org/doi/10.1145/3469659) 
 
 * (arxiv'21) **Adversarially Robust One-class Novelty Detection**. *Lo, Shao-Yuan, Poojan Oza, and Vishal M. Patel.* [link](https://arxiv.org/abs/2108.11168)
 
@@ -97,6 +97,8 @@ Papers on Trustworthy Anomaly Detection
 * (TrustCom'21) **An Approach for Poisoning Attacks Against RNN-Based Cyber Anomaly Detection**. *Xu, Jinghui, Yu Wen, Chun Yang, and Dan Meng.* [link](https://ieeexplore.ieee.org/document/9343232)
 
 * (IJCIP'21) **Adversarial Attacks and Mitigation for Anomaly Detectors of Cyber-Physical Systems**. *Jia, Yifan, Jingyi Wang, Christopher M. Poskitt, Sudipta Chattopadhyay, Jun Sun, and Yuqi Chen.* [link](https://arxiv.org/abs/2105.10707)
+
+* (S&P'20) **Intriguing properties of adversarial ml attacks in the problem space**. *Pierazzi, Fabio, Feargus Pendlebury, Jacopo Cortellazzi, and Lorenzo Cavallaro*. [link](https://arxiv.org/abs/1911.02142)
 
 * (ACSAC'20) **Constrained concealment attacks against reconstruction-based anomaly detectors in industrial control systems**. *Erba, Alessandro, Riccardo Taormina, Stefano Galelli, Marcello Pogliani, Michele Carminati, Stefano Zanero, and Nils Ole Tippenhauer* [link](https://arxiv.org/abs/1907.07487)
 
