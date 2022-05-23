@@ -88,6 +88,8 @@ Papers on Trustworthy Anomaly Detection
 
 **Approaches**
 
+* (DTRAP'2022)  **Modeling Realistic Adversarial Attacks against Network Intrusion Detection Systems**. *Apruzzese, Giovanni, Mauro Andreolini, Luca Ferretti, Mirco Marchetti, and Michele Colajanni.* [link](https://dl.acm.org/doi/10.1145/3469659) 
+
 * (arxiv'21) **Adversarially Robust One-class Novelty Detection**. *Lo, Shao-Yuan, Poojan Oza, and Vishal M. Patel.* [link](https://arxiv.org/abs/2108.11168)
 
 * (IJCAI'21) **Robustness of Autoencoders for Anomaly Detection Under Adversarial Impact**. *Goodge, Adam, Bryan Hooi, See-Kiong Ng, and Wee Siong Ng.* [link](https://www.ijcai.org/proceedings/2020/173)
