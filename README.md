@@ -86,6 +86,12 @@ Papers on Trustworthy Anomaly Detection
 
 ## 5. Robust Anomaly Detection
 
+**Surveys**
+
+* (CSUR'22) **Adversarial Machine Learning Attacks and Defense Methods in the Cyber Security Domain**. *Rosenberg, Ishai, Asaf Shabtai, Yuval Elovici, and Lior Rokach*. [link](https://dl.acm.org/doi/abs/10.1145/3453158)
+
+* (arxiv'19) **The Threat of Adversarial Attacks on Machine Learning in Network Security -- A Survey**. *Ibitoye, Olakunle, Rana Abou-Khamis, Ashraf Matrawy, and M. Omair Shafiq*. [link](https://arxiv.org/abs/1911.02621)
+
 **Approaches**
 
 * (DTRAP'22)  **Modeling Realistic Adversarial Attacks against Network Intrusion Detection Systems**. *Apruzzese, Giovanni, Mauro Andreolini, Luca Ferretti, Mirco Marchetti, and Michele Colajanni.* [link](https://dl.acm.org/doi/10.1145/3469659) 
