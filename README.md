@@ -45,6 +45,8 @@ Papers on Trustworthy Anomaly Detection
 
 * (VLDB J.'22) **A survey on outlier explanations**. *Panjei Egawati, Le Gruenwald, Eleazar Leal, Christopher Nguyen, and Shejuti Silvia.* [link](https://link.springer.com/article/10.1007/s00778-021-00721-1)
 
+* (arxiv'22) **A Survey on Explainable Anomaly Detection**. *Zhong Li, Yuxuan Zhu, Matthijs van Leeuwen* [link](https://arxiv.org/abs/2210.06959)
+
 **Approaches**
 * (KDD'22) **Framing Algorithmic Recourse for Anomaly Detection**. *Debanjan Datta, Feng Chen, Naren Ramakrishnan*. [link](https://dl.acm.org/doi/abs/10.1145/3534678.3539344)
 
