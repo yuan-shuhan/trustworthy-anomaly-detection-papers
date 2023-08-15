@@ -23,6 +23,10 @@ Papers on Trustworthy Anomaly Detection
 * (arxiv'19) **Deep Learning for Anomaly Detection: A Survey**. *Chalapathy Raghavendra, and Sanjay Chawla*. [link](https://arxiv.org/abs/1901.03407)
 
 ### 2.1 Surveys on Specific Domains
+* (Euro S&P) **SoK: Explainable Machine Learning for Computer Security Applications**.  *Azqa Nadeem, Daniël Vos, Clinton Cao, Luca Pajola, Simon Dieck, Robert Baumgartner, and Sicco Verwer.* [link](https://www.computer.org/csdl/proceedings-article/eurosp/2023/651200a221/1OFthl9pdEQ)
+
+* (arxiv'23) **SoK: Modeling Explainability in Security Analytics for Interpretability, Trustworthiness, and Usability**. *Dipkamal Bhusal, Rosalyn Shin, Ajay Ashok Shewale, Monish Kumar Manikya Veerabhadran, Michael Clifford, Sara Rampazzi, and Nidhi Rastogi.* [link](https://arxiv.org/abs/2210.17376)
+
 * (CSUR'22) **Anomaly detection and failure root cause analysis in (micro) service-based cloud applications: A survey**. *Soldani Jacopo, and Antonio Brogi*. [link](https://dl.acm.org/doi/full/10.1145/3501297)
 
 * (CSUR'21) **A review on outlier/anomaly detection in time series data**. *Blázquez-García Ane, Angel Conde, Usue Mori, and Jose A. Lozano*. [link](https://dl.acm.org/doi/abs/10.1145/3444690)
@@ -45,10 +49,12 @@ Papers on Trustworthy Anomaly Detection
 
 * (VLDB J.'22) **A survey on outlier explanations**. *Panjei Egawati, Le Gruenwald, Eleazar Leal, Christopher Nguyen, and Shejuti Silvia.* [link](https://link.springer.com/article/10.1007/s00778-021-00721-1)
 
-* (arxiv'22) **A Survey on Explainable Anomaly Detection**. *Zhong Li, Yuxuan Zhu, Matthijs van Leeuwen* [link](https://arxiv.org/abs/2210.06959)
+* (TKDD'23) **A Survey on Explainable Anomaly Detection**. *Zhong Li, Yuxuan Zhu, Matthijs van Leeuwen* [link](https://dl.acm.org/doi/10.1145/3609333)
 
 **Approaches**
 * (KDD'22) **Framing Algorithmic Recourse for Anomaly Detection**. *Debanjan Datta, Feng Chen, Naren Ramakrishnan*. [link](https://dl.acm.org/doi/abs/10.1145/3534678.3539344)
+
+* (CCS'21) **DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications**. *Dongqi Han, Zhiliang Wang, Wenqi Chen, Ying Zhong, Su Wang, Han Zhang, Jiahai Yang, Xingang Shi, and Xia Yin.* [link](https://arxiv.org/abs/2109.11495)
 
 * (PVLDB'21) **Exathlon: a benchmark for explainable anomaly detection over time series**. *Vincent Jacob, Fei Song, Arnaud Stiegler, Bijan Rad, Yanlei Diao, and Nesime Tatbul*. [link](https://doi.org/10.14778/3476249.3476307)
 
@@ -76,6 +82,8 @@ Papers on Trustworthy Anomaly Detection
 
 **Approaches**
 
+* (PAKDD'23) **Achieving Counterfactual Fairness for Anomaly Detection**. *Xiao Han, Lu Zhang, Yongkai Wu, and Shuhan Yuan.* [link](https://arxiv.org/abs/2303.02318)
+  
 * (FAccT'21) **Towards Fair Deep Anomaly Detection**. *Zhang Hongjing, and Ian Davidson.* [link](https://dl.acm.org/doi/10.1145/3442188.3445878)
 
 * (AIES'21) **FairOD: Fairness-aware Outlier Detection**. *Shekhar Shubhranshu, Neil Shah, and Leman Akoglu.* [link](https://dl.acm.org/doi/10.1145/3461702.3462517)
