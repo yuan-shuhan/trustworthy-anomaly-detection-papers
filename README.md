@@ -128,6 +128,7 @@ Papers on Trustworthy Anomaly Detection
 ## 6. Privacy Preserving Anomaly Detection
 
 **Perturbation-based Approaches**
+* (SIGMOD'21) **PCOR: Private Contextual Outlier Release via Differentially Private Search**. *Masoumeh Shafieinejad, Florian Kerschbaum, and Ihab F. Ilyas.* [link](https://dl.acm.org/doi/10.1145/3448016.3452812)
 
 * (TII'21) **Security and Privacy-Enhanced Federated Learning for Anomaly Detection in IoT Infrastructures**. *Cui, Lei, Youyang Qu, Gang Xie, Deze Zeng, Ruidong Li, Shigen Shen, and Shui Yu.* [link](https://ieeexplore.ieee.org/document/9522027)
 
@@ -142,7 +143,7 @@ Papers on Trustworthy Anomaly Detection
 
 **Cryptographic-based approach**
 
-* (ICDE'20) **Privacy-preserving Real-time Anomaly Detection Using Edge Computing**. *Mehnaz, Shagufta, and Elisa Bertino.* [link](https://ieeexplore.ieee.org/document/9101489)
+*  (ICDE'20) **Privacy-preserving Real-time Anomaly Detection Using Edge Computing**. *Mehnaz, Shagufta, and Elisa Bertino.* [link](https://ieeexplore.ieee.org/document/9101489)
 
 * (KIS'15) **Privacy-preserving LOF outlier detection**. *Li, Lu, Liusheng Huang, Wei Yang, Xiaohui Yao, and An Liu*. [link](https://link.springer.com/article/10.1007/s10115-013-0692-0)
 
