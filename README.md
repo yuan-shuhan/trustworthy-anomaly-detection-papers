@@ -105,6 +105,7 @@ Papers on Trustworthy Anomaly Detection
 * (arxiv'19) **The Threat of Adversarial Attacks on Machine Learning in Network Security -- A Survey**. *Ibitoye, Olakunle, Rana Abou-Khamis, Ashraf Matrawy, and M. Omair Shafiq*. [link](https://arxiv.org/abs/1911.02621)
 
 **Approaches**
+* (PAKDD'22) **IDSGAN: Generative Adversarial Networks for Attack Generation Against Intrusion Detection**. *Zilong Lin, Yong Shi, and Zhi Xue.* [link](https://link.springer.com/chapter/10.1007/978-3-031-05981-0_7)
 
 * (DTRAP'22)  **Modeling Realistic Adversarial Attacks against Network Intrusion Detection Systems**. *Apruzzese, Giovanni, Mauro Andreolini, Luca Ferretti, Mirco Marchetti, and Michele Colajanni.* [link](https://dl.acm.org/doi/10.1145/3469659) 
 
