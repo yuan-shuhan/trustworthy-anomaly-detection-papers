@@ -46,6 +46,7 @@ Papers on Trustworthy Anomaly Detection
 ## 3. Interpretable Anomaly Detection
 
 **Surveys**
+* (arxiv'23) **Explainable Anomaly Detection in Images and Videos: A Survey**. *Yizhou Wang, Dongliang Guo, Sheng Li, Octavia Camps, Yun Fu*. [link](https://arxiv.org/abs/2302.06670)
 
 * (VLDB J.'22) **A survey on outlier explanations**. *Panjei Egawati, Le Gruenwald, Eleazar Leal, Christopher Nguyen, and Shejuti Silvia.* [link](https://link.springer.com/article/10.1007/s00778-021-00721-1)
 
