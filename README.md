@@ -55,6 +55,8 @@ Papers on Trustworthy Anomaly Detection
 **Approaches**
 * (KDD'22) **Framing Algorithmic Recourse for Anomaly Detection**. *Debanjan Datta, Feng Chen, Naren Ramakrishnan*. [link](https://dl.acm.org/doi/abs/10.1145/3534678.3539344)
 
+* (AAAI'21) **Anomaly attribution with likelihood compensation**. *Idé, Tsuyoshi, Amit Dhurandhar, Jiří Navrátil, Moninder Singh, and Naoki Abe*. [link](https://ojs.aaai.org/index.php/AAAI/article/view/16535)
+
 * (CCS'21) **DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications**. *Dongqi Han, Zhiliang Wang, Wenqi Chen, Ying Zhong, Su Wang, Han Zhang, Jiahai Yang, Xingang Shi, and Xia Yin.* [link](https://arxiv.org/abs/2109.11495)
 
 * (PVLDB'21) **Exathlon: a benchmark for explainable anomaly detection over time series**. *Vincent Jacob, Fei Song, Arnaud Stiegler, Bijan Rad, Yanlei Diao, and Nesime Tatbul*. [link](https://doi.org/10.14778/3476249.3476307)
